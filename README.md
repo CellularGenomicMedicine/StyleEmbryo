@@ -1,9 +1,11 @@
 # StyleEmbryo
-These are samples of generated human blastocyst images. A generated image dataset (n=5k) is only available for research use at [link](https://drive.google.com/drive/folders/16gy31GX0mogtsdMIZENipdVy97X-GF4P?usp=drive_link).
 
-<img src="images/samples.svg" width="800" height="650">
+[12-03-2024]Update: We are happy to announce that Human Reproduction has accepted our paper! :tada:
+>
+<img src="https://github.com/CellularGenomicMedicine/StyleEmbryo/assets/54368185/e6e39226-f71a-4f4b-b1e0-2ec560d46ccf" width="800"> <br>
 
-This repository was created to provide the original implementation for the paper _"Generative Artificial Intelligence Models to Assist Embryo Selection"_.
+>
+This repository was created to provide the original implementation for the paper _"Generative Artificial Intelligence to Produce High-Fidelity Blastocyst-stage Embryo Images"_.
 In this repository, you will find the code used for training. Here is a basic summary of the directories in this repository:
 
 - **images/**: Samples of generated images.
@@ -14,6 +16,7 @@ In this repository, you will find the code used for training. Here is a basic su
 
 The training data is available at [link](https://drive.google.com/file/d/1oFrAzSIjW3pbjEhSWswRTIEEb_sqJatT/view?usp=sharing).
 The pretrained weights from this study are at [link](https://drive.google.com/drive/folders/1kegtpN3VaC5-irWP6F58qrK9KJrzkbp-?usp=sharing).
+We provide a generated image dataset (n=5k) for research use at [link](https://drive.google.com/drive/folders/16gy31GX0mogtsdMIZENipdVy97X-GF4P?usp=drive_link).
 
 # Installation
 ```
